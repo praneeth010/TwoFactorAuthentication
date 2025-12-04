@@ -84,7 +84,7 @@ two-factor-auth-ui/
 ├── App.js
 ├── TwoFactorSetup.jsx
 ├── TwoFactorVerify.jsx
-├── TwoFactor.css
+└── TwoFactor.css
 
 ---
 
