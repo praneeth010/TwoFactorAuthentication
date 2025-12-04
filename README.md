@@ -79,12 +79,7 @@ http://localhost:3000
 
 ---
 
-two-factor-auth-ui/
-└── src/
-├── App.js
-├── TwoFactorSetup.jsx
-├── TwoFactorVerify.jsx
-└── TwoFactor.css
+two-factor-auth-ui/└── src/├── App.js├── TwoFactorSetup.jsx├── TwoFactorVerify.jsx└── TwoFactor.css
 
 ---
 
